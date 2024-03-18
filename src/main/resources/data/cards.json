@@ -1,0 +1,345 @@
+[
+  {
+    "id": "1",
+    "name": "Benevolent Ruler",
+    "description": "The Benevolent Ruler governs with wisdom and compassion, always putting the well-being of their subjects first.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Benevolent+Ruler.png"
+  },
+  {
+    "id": "2",
+    "name": "Buddy the Loyal Pooch",
+    "description": "Buddy is a loyal and faithful companion, always by their owner's side through thick and thin.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Buddy+the+Loyal+Pooch.png"
+  },
+  {
+    "id": "3",
+    "name": "Captain",
+    "description": "The Captain leads their crew with courage and determination, guiding their ship through treacherous waters.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Captain.png"
+  },
+  {
+    "id": "4",
+    "name": "Clumsy Swordsman",
+    "description": "The Clumsy Swordsman may lack finesse, but their heart is true, and they fight with all their might to protect what they hold dear.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Clumsy+Swordsman.png"
+  },
+  {
+    "id": "5",
+    "name": "Court Jester",
+    "description": "The Court Jester brings laughter and joy to the royal court, using humor to ease tensions and brighten spirits.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Court+Jester.png"
+  },
+  {
+    "id": "6",
+    "name": "Devout Priestess",
+    "description": "The Devout Priestess offers guidance and solace to those in need, their faith unwavering in the face of adversity.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Devout+Priestess.png"
+  },
+  {
+    "id": "7",
+    "name": "Eccentric Witch",
+    "description": "The Eccentric Witch brews potions and casts spells with wild abandon, their magic sparking with untamed energy.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Eccentric+Witch.png"
+  },
+  {
+    "id": "8",
+    "name": "Enchanting Siren",
+    "description": "The Enchanting Siren sings songs of love and loss, their voice captivating all who hear it.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Enchanting+Siren.png"
+  },
+  {
+    "id": "9",
+    "name": "Enigmatic Wanderer",
+    "description": "The Enigmatic Wanderer travels the world with no destination in mind, their past shrouded in mystery and intrigue.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Enigmatic+Wanderer.png"
+  },
+  {
+    "id": "10",
+    "name": "Fearless Mage",
+    "description": "The Fearless Mage wields magic with reckless abandon, their spells unleashing raw power upon their enemies.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Fearless+Mage.png"
+  },
+  {
+    "id": "11",
+    "name": "Friendly Bartender",
+    "description": "The Friendly Bartender serves drinks with a smile, their tavern a haven of warmth and camaraderie.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Friendly+Bartender.png"
+  },
+  {
+    "id": "12",
+    "name": "Grandma Martha",
+    "description": "Grandma Martha is a source of wisdom and comfort, her gentle presence bringing warmth to all who know her.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Grandma+Martha.png"
+  },
+  {
+    "id": "13",
+    "name": "Grimbolt",
+    "description": "Grimbolt is a fearsome warrior, their axe cleaving through enemies with ruthless efficiency.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Grimbolt.png"
+  },
+  {
+    "id": "14",
+    "name": "Luna",
+    "description": "Luna is a shy and timid janitor, quietly going about her duties with meticulous attention to detail.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Luna.png"
+  },
+  {
+    "id": "15",
+    "name": "Masterful Blade",
+    "description": "The Masterful Blade is a skilled swordsman, their strikes precise and deadly as they dance through the battlefield.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Masterful+Blade.png"
+  },
+  {
+    "id": "16",
+    "name": "Mischievous Sprite",
+    "description": "The Mischievous Sprite delights in playing pranks on unsuspecting travelers, their laughter echoing through the forest.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Mischievous+Sprite.png"
+  },
+  {
+    "id": "17",
+    "name": "Mysterious Fortune Teller",
+    "description": "The Mysterious Fortune Teller reads the future in the stars, their cryptic predictions leaving seekers both intrigued and unsettled.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Mysterious+Fortune+Teller.png"
+  },
+  {
+    "id": "18",
+    "name": "Old MacDonald",
+    "description": "Old MacDonald is a hardworking farmer, tending to his fields with care and dedication.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Old+MacDonald.png"
+  },
+  {
+    "id": "19",
+    "name": "Optimistic Beggar",
+    "description": "The Optimistic Beggar sees the bright side of life, their cheerful demeanor bringing hope to those around them.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Optimistic+Beggar.png"
+  },
+  {
+    "id": "20",
+    "name": "Pippet",
+    "description": "Pippet is a curious gnome, always tinkering with gadgets and gizmos in search of the next great invention.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Pippet.png"
+  },
+  {
+    "id": "21",
+    "name": "Shrewd Trader",
+    "description": "The Shrewd Trader knows the value of a good deal, their keen eye and sharp wit making them a force to be reckoned with in the marketplace.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Shrewd+Trader.png"
+  },
+  {
+    "id": "22",
+    "name": "Sketchy Swindler",
+    "description": "The Sketchy Swindler is a master of deception, their smooth talk and quick hands allowing them to part fools from their gold with ease.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Sketchy+Swindler.png"
+  },
+  {
+    "id": "23",
+    "name": "Skilled Smith",
+    "description": "The Skilled Smith hammers away at the forge, crafting weapons and armor with skill and precision.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Skilled+Smith.png"
+  },
+  {
+    "id": "24",
+    "name": "Spirited Barmen",
+    "description": "The Spirited Bartender serves up drinks with flair, their lively personality making every visit to the tavern a memorable experience.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Spirited+Barmen.png"
+  },
+  {
+    "id": "25",
+    "name": "Spirited Heiress",
+    "description": "The Spirited Heiress longs for adventure beyond the confines of her gilded cage, her spirit untamed and yearning to be free.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Spirited+Heiress.png"
+  },
+  {
+    "id": "26",
+    "name": "Swift Blade",
+    "description": "The Swift Blade strikes with lightning speed, their mastery of the sword unmatched on the battlefield.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Swift+Blade.png"
+  },
+  {
+    "id": "27",
+    "name": "Timid Janitor",
+    "description": "The Timid Janitor works diligently in the shadows, their quiet dedication ensuring that every corner of their domain sparkles with cleanliness.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Timid+Janitor.png"
+  },
+  {
+    "id": "28",
+    "name": "Vigilant Guardian",
+    "description": "The Vigilant Guardian stands watch over their charges with unwavering resolve, their sword ready to defend against any threat that may arise.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Vigilant+Guardian.png"
+  },
+  {
+    "id": "29",
+    "name": "Wandering Minstrel",
+    "description": "The Wandering Minstrel travels from town to town, their songs weaving tales of love and adventure that captivate audiences far and wide.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Wandering+Minstrel.png"
+  },
+  {
+    "id": "30",
+    "name": "Witty Archer",
+    "description": "The Witty Archer never misses their mark, their arrows finding their target with deadly accuracy as they rain death upon their enemies from afar.",
+    "rarity": "COMMON",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Witty+Archer.png"
+  },
+  {
+    "id": "31",
+    "name": "Clumsy Contraption",
+    "description": "Clank is a hulking steambot with a heart of gold and a habit of breaking everything in sight. With his oversized limbs and his tendency to trip over his own feet, he's a walking disaster waiting to happen, but you can't help but love him for trying his best.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Clumsy+Contraption.png"
+  },
+  {
+    "id": "32",
+    "name": "Daring Duchess",
+    "description": "The Daring Duchess is a masked heroine who fights injustice with style and grace. With a sword at her side and a wink for her admirers, she's a force to be reckoned with both on and off the battlefield, proving that even ladies of high society can kick butt when they need to.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Daring+Duchess.png"
+  },
+  {
+    "id": "33",
+    "name": "Greta Gearsprocket",
+    "description": "Greta is a brilliant engineer with a no-nonsense attitude and a passion for all things mechanical. With oil-stained hands and a mind that's always buzzing with ideas, she's the go-to person when you need something fixed or built in a pinch.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Greta+Gearsprocket.png"
+  },
+  {
+    "id": "34",
+    "name": "Lady Penelope",
+    "description": "Lady Penelope is a pompous aristocrat who fancies herself the height of sophistication. With her nose permanently in the air and her penchant for extravagant hats, she's a walking caricature of high society, much to the amusement of those around her.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Lady+Penelope.png"
+  },
+  {
+    "id": "35",
+    "name": "Lord Reginald",
+    "description": "Lord Reginald is a snobbish aristocrat who believes himself to be the epitome of refinement and taste. With his monocle firmly in place and his disdainful sneer, he looks down upon anyone he deems beneath his station, blissfully unaware of how ridiculous he appears.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Lord+Reginald.png"
+  },
+  {
+    "id": "36",
+    "name": "Mysterious Marauder",
+    "description": "The Mysterious Marauder is a masked vigilante who prowls the streets at night, dispensing justice with a flourish of their cape and a twirl of their mustache. With a flair for the dramatic and a heart of gold, they're the hero the city needs, even if they don't always play by the rules.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Mysterious+Marauder.png"
+  },
+  {
+    "id": "37",
+    "name": "Quickdraw McGraw",
+    "description": "Quickdraw is a swaggering gunslinger with a lightning-fast draw and a penchant for getting into trouble. With a cowboy hat tipped low over his eyes and a smirk that never leaves his lips, he's always ready for a showdown at high noon.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Quickdraw+McGraw.png"
+  },
+  {
+    "id": "38",
+    "name": "Rambunctious Robo-Servant",
+    "description": "Rusty is a grizzled old bartender with a penchant for tall tales and stronger-than-strong drinks. His rough exterior hides a heart of gold, but don't let that fool you - he'll still kick you out on your rear if you cause trouble in his tavern.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Rambunctious+Robo-Servant.png"
+  },
+  {
+    "id": "39",
+    "name": "Salty Pete",
+    "description": "Salty Pete is a grizzled old bartender with a penchant for tall tales and stronger-than-strong drinks. His rough exterior hides a heart of gold, but don't let that fool you - he'll still kick you out on your rear if you cause trouble in his tavern.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Salty+Pete.png"
+  },
+  {
+    "id": "40",
+    "name": "Sassy Servo-Maid",
+    "description": "Steamy Sally is a sleek steambot with a sassy attitude and a knack for getting into mischief. With her polished exterior and her penchant for backtalk, she's the robot you love to hate but can't help but admire for her spunk.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Sassy+Servo-Maid.png"
+  },
+  {
+    "id": "41",
+    "name": "Slippery Salesman",
+    "description": "Sly Sam is a smooth-talking trader with a knack for striking deals that are too good to be true. With a grin that never quite reaches his eyes and a handshake that's as slippery as an eel, he's the kind of guy you'd trust as far as you could throw him - which isn't very far at all.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Slippery+Salesman.png"
+  },
+  {
+    "id": "42",
+    "name": "Whizbang Widgetsworth",
+    "description": "Whizbang is an eccentric engineer with a knack for inventing gadgets that are as likely to explode as they are to work as intended. With grease-stained overalls and wild hair that stands on end, he's a walking testament to the fine line between genius and madness.",
+    "rarity": "RARE",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Whizbang+Widgetsworth.png"
+  },
+  {
+    "id": "43",
+    "name": "Fiery Knight",
+    "description": "Sir Blazealot is a valiant knight whose armor gleams like molten lava in the sunlight. With a sword that burns with the intensity of a thousand flames, he charges into battle with reckless abandon, leaving a trail of scorched earth in his wake.",
+    "rarity": "EPIC",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Fiery+Knight.png"
+  },
+  {
+    "id": "44",
+    "name": "Metal Bladekeeper",
+    "description": "Ironclad Ike is a stoic guardian tasked with protecting the realm's most prized possessions. With a suit of armor that shines like polished steel and a collection of blades that would make any blacksmith jealous, he's the ultimate defender of all things shiny and sharp.",
+    "rarity": "EPIC",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Metal+Bladekeeper.png"
+  },
+  {
+    "id": "45",
+    "name": "Mystical Priestess",
+    "description": "Marina is a wise priestess who draws her power from the depths of the ocean. With a staff that glows with an otherworldly light and a voice that echoes like the crashing waves, she heals the wounded and calms the troubled seas with equal grace and skill.",
+    "rarity": "EPIC",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Mystical+Priestess.png"
+  },
+  {
+    "id": "46",
+    "name": "Rock-Hard Mauler",
+    "description": "Rocky is a hulking brute whose muscles are as solid as the crystals he wields. Despite his intimidating appearance, he's actually quite sensitive and has a penchant for poetry, often reciting verses about the beauty of geology while smashing opponents with his mighty maul.",
+    "rarity": "EPIC",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Rock-Hard+Mauler.png"
+  },
+  {
+    "id": "47",
+    "name": "Tranquil Monk",
+    "description": "Terra is a serene monk who has mastered the earth's elemental powers through years of meditation and discipline. With a calm demeanor and a deep connection to the land, she moves with the grace of a falling leaf and strikes with the force of an earthquake.",
+    "rarity": "EPIC",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Tranquil+Monk.png"
+  },
+  {
+    "id": "48",
+    "name": "Whimsical Ranger",
+    "description": "Willow is a playful ranger who has an affinity for all things leafy and green. With a bow made from the branches of ancient trees and a quiver filled with enchanted arrows, she roams the forest with her trusty animal companions, always ready to defend nature's beauty from those who would harm it.",
+    "rarity": "EPIC",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Whimsical+Ranger.png"
+  },
+  {
+    "id": "49",
+    "name": "Zany Hashashin",
+    "description": "Zephyr is a quirky hashashin who moves like the wind and strikes with the force of a hurricane. With a cloak that billows behind him like storm clouds and a grin that's as mischievous as a playful breeze, he's always one step ahead of his foes, disappearing into thin air with a laugh and a wink.",
+    "rarity": "EPIC",
+    "imageUrl": "https://clickin-storage.s3.eu-central-1.amazonaws.com/characters/Zany+Hashashin.png"
+  }
+]
